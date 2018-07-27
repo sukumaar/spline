@@ -44,3 +44,5 @@ failing for spline-core-spark-adapter-2.3
 [INFO] spline 0.3.1 ....................................... SKIPPED
 [INFO] spline-persistence 0.3.1 ........................... SKIPPED
 ```
+
+> mvn clean compile install -Pspark-2.2
